@@ -28,13 +28,13 @@ class ServiceManager extends Model
         $mail->isSMTP();                      // Set mailer to use SMTP
         $mail->Host = 'smtp.gmail.com';       // Specify main and backup SMTP servers
         $mail->SMTPAuth = true;               // Enable SMTP authentication
-        $mail->Username = 'zakaria.eddouh@gmail.com';   // SMTP username
-        $mail->Password = 'qbnzjeptnvoveoim';   // SMTP password
+        $mail->Username = '';   // SMTP username
+        $mail->Password = '';   // SMTP password
         $mail->SMTPSecure = 'tls';            // Enable TLS encryption, `ssl` also accepted
         $mail->Port = 587;                    // TCP port to connect to
 
         // Sender info
-        $mail->setFrom('zakaria.eddouh@gmail.com', 'Bona');
+        $mail->setFrom('blog.bona@gmail.com', 'Bona');
 
         // Add a recipient
         $mail->addAddress($newFields['email']);
