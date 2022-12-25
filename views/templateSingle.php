@@ -10,7 +10,7 @@
 		<link href="public/common-css/ionicons.css" rel="stylesheet">
 		<link href="public/single-post-2/css/styles.css" rel="stylesheet">
 		<link href="public/single-post-2/css/responsive.css" rel="stylesheet">
-		<link href="public//css/style.css" rel="stylesheet">
+		<link href="public/css/style.css" rel="stylesheet">
 	</head>
 	<body>
 		<header>

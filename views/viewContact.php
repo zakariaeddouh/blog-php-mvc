@@ -4,7 +4,7 @@
 		<div class="row">
 			<div class="col-lg-3 col-md-0"></div>
 			<div class="col-lg-6 col-md-12">
-				<div class="comment-form center-text">
+				<div class="comment-form center-text contact-message">
 					<div class="alert-info" role="alert"><?php echo $result ?> </div>
 				</div>
 			</div>

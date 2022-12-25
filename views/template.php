@@ -12,7 +12,7 @@
 		<link href="public/layout-1/css/responsive.css" rel="stylesheet">
 		<link href="public/single-post-3/css/styles.css" rel="stylesheet">
 		<link href="public/single-post-3/css/responsive.css" rel="stylesheet">
-		<link href="public//css/style.css" rel="stylesheet">
+		<link href="public/css/style.css" rel="stylesheet">
 	</head>
 	<body>
 		<header>
