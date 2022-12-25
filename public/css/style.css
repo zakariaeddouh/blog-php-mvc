@@ -1,0 +1,96 @@
+.h-30 {
+    height: 30%;
+}
+
+.admin-menu-section {
+    padding: 20px 0 0px;
+}
+
+.admin-menu-row {
+    padding: 0px 0px 0px;
+}
+
+.admin-single-post {
+    padding-bottom: 0% !important;
+}
+
+.admin-manager-section {
+    padding: 0px 0 40px;
+}
+
+.manager-comment-title {
+    padding: 10px 10px 0px !important;
+}
+
+.manager-user-image {
+    padding: 30px !important;
+}
+
+.title-padding {
+    padding: 0px 10px 10px !important;
+}
+
+.home-title {
+    padding: 0px 10px 10px !important;
+    text-align: left;
+}
+
+.home-blog-title {
+    padding: 20px 10px 0px !important;
+}
+
+.home-post-bottom {
+    padding-bottom:0% !important;
+}
+
+.home-image-post {
+    position: relative;
+}
+
+.home-title-image-post {
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%);
+}
+
+.error-font-100 {
+    font-size: 100px;
+}
+
+.error-font-30 {
+    font-size: 30px;
+}
+
+.error-font-25 {
+    font-size: 25px;
+}
+
+.error-font-20 {
+    font-size: 20px;
+    color: #333ed9;
+}
+
+.profile-row-success {
+    margin-bottom: -30px !important;
+}
+
+.profil-image {
+    height: 70px;
+    width: 70px;
+    border-radius: 100px;
+    overflow: hidden;
+    position: absolute;
+    top: 60%;
+    margin-top: -35px;
+    border: 6px solid #fff;
+    box-shadow: 0px 0px 5px rgb(0 0 0 / 30%);
+}
+
+.single-post-comment-success {
+    margin: 10px 0px -18px;
+}
+
+.single-post-row {
+    margin-top: 30px;
+}
